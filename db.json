@@ -1,0 +1,16 @@
+{
+  "produtos": [
+    {
+      "nome": "curso de jiu jitsu",
+      "validade": "2022-02-12",
+      "precoProduto": 150,
+      "id": 5
+    },
+    {
+      "nome": "Faixa Roxa de Jiu Jitsu",
+      "validade": "2022-02-12",
+      "precoProduto": 190,
+      "id": 6
+    }
+  ]
+}
